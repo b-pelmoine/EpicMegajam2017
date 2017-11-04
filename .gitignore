@@ -111,3 +111,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#UE starter pack
+Content/StarterContent/*
